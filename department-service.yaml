@@ -4,7 +4,7 @@ spring:
   username: root
   password: mySQL123
  boot:
-  message: I was changed !!!!!
+  message: Hello, Department Serice Spring Cloud Bus Demo
   
  jpa:
   properties:
