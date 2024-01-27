@@ -8,8 +8,8 @@ spring:
  #  port: 5672
  #  username: guest
  #  password: guest 
-  boot:
-   message: Hello, Employee
+ boot:
+  message: Hello, Employee
  jpa:
   properties:
    hibernate:
