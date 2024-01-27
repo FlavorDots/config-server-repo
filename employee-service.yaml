@@ -3,11 +3,13 @@ spring:
   url: jdbc:mysql://localhost:3306/employee_db
   username: root
   password: mySQL123
- rabbitmq:
-  host: localhost
-  port: 5672
-  username: guest
-  password: guest 
+ # rabbitmq:
+ #  host: localhost
+ #  port: 5672
+ #  username: guest
+ #  password: guest 
+  boot:
+   message: Hello, Employee
  jpa:
   properties:
    hibernate:
