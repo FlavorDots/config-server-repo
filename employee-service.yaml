@@ -9,7 +9,7 @@ spring:
  #  username: guest
  #  password: guest 
  boot:
-  message: Hello, Employee
+  message: Hello, Employee Service Bus Demo
  jpa:
   properties:
    hibernate:
